@@ -1,0 +1,8 @@
+a = 10
+b = 8
+x = 5
+if a > 5 and b > 5:
+    print("The numbers are greater than 5 ")
+if a > 5 or b > 5:
+    print("Either of the number is greater than 5")
+print(not(x > 3 and x < 10))
