@@ -1,0 +1,4 @@
+π = 3.14  
+R = float (input ("Please enter the radius of the given circle: "))  
+area = π * R * R 
+print (" The area of the given circle is: ", area)  
