@@ -1,0 +1,12 @@
+a=87
+b=2
+c=a//b
+print(c)
+x=69.5
+y=5
+z=x//y
+print(z)
+m=227.8
+n=20
+p=m//n
+print(p)
